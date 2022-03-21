@@ -1,6 +1,6 @@
 {
   "name": "npm-practice-request-many2",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": "MIT",
   "author": {
     "email": "adrianjmejias@gmail.com",
@@ -32,8 +32,8 @@
   "peerDependencies": {
     "axios": "^0.26.1"
   },
-  "main": "dist/cjs/*/**.*",
-  "module": "dist/esm/*/**.*",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
   "files": [
     "dist"
   ],
