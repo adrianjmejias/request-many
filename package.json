@@ -1,6 +1,6 @@
 {
   "name": "npm-practice-request-many2",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "author": {
     "email": "adrianjmejias@gmail.com",
@@ -37,5 +37,8 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
 }
