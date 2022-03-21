@@ -1,6 +1,6 @@
 {
   "name": "npm-practice-request-many2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "author": {
     "email": "adrianjmejias@gmail.com",
@@ -17,6 +17,7 @@
     "jest": "^27.5.1",
     "nock": "^13.2.4",
     "rollup": "^2.70.1",
+    "rollup-plugin-dts": "^4.2.0",
     "rollup-plugin-typescript2": "^0.31.2",
     "ts-jest": "^27.1.3",
     "ts-node": "^10.7.0",
