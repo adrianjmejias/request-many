@@ -2,11 +2,7 @@
   "name": "npm-practice-request-many2",
   "version": "1.0.7",
   "license": "MIT",
-  "author": {
-    "email": "adrianjmejias@gmail.com",
-    "name": "Adrian Mejias",
-    "url": "https://github.com/adrianjmejias"
-  },
+  "author": {},
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.2",
     "@rollup/plugin-node-resolve": "^13.1.3",
