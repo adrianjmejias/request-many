@@ -2,7 +2,17 @@
   "name": "npm-practice-request-many2",
   "version": "1.0.7",
   "license": "MIT",
-  "author": {},
+  "author": {
+    "email": "adrianjmejias@gmail.com",
+    "name": "Adrian Mejias",
+    "url": "https://github.com/adrianjmejias"
+  },
+  "description": "Just a test",
+  "homepage": "https://github.com/adrianjmejias/request-many/blob/master/readme.md",
+  "repository": {
+    "url": "https://github.com/adrianjmejias/request-many/",
+    "type": "git"
+  },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.2",
     "@rollup/plugin-node-resolve": "^13.1.3",
